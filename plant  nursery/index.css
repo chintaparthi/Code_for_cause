@@ -1,0 +1,25 @@
+.body{
+    background-image: url(back1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    text-align: center;
+    
+    color: white;
+    font-size: 45px;
+    border-radius: 15px;
+    border: solid rgb(255, 255, 255) 3px;
+    height:60px;
+    position: relative;
+    left: 3px;
+}
+.inp{
+    width: 75%;
+    height: 45px;
+    position: relative;
+    left: 4%;
+    bottom: 10%;
+    border-radius: 7px;
+}
